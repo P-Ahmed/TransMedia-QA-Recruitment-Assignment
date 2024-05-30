@@ -25,3 +25,4 @@ gradle clean test
 6. To view the report of the automation execution, expand the **build -> reports -> tests** folder and open "index.html" in a browser
 
 ## Test execution report:
+![image](https://github.com/P-Ahmed/TransMedia-QA-Recruitment-Assignment/assets/28926103/5fe5d1e7-e0f0-4b98-a304-5a1d67588a6b)
