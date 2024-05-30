@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Transmedia QA Recruitment Technical Test">
+    <test name="UI Automation" thread-count="1" parallel="false">
+        <classes>
+            <class name="testRunner.LoginTestRunner"/>
+            <class name="testRunner.ProductBuyingTestRunner"/>
+            <class name="testRunner.SearchFunctionalityTestRunner"/>
+        </classes>
+    </test>
+</suite>

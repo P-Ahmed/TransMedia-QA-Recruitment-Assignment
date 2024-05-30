@@ -1,0 +1,10 @@
+.gradle
+build
+gradle
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+[Report html, Report junitXml]/tests
