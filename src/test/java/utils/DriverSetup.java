@@ -66,7 +66,7 @@ public class DriverSetup {
         }
         if (threadDriver.get() != null) {
             threadDriver.get().quit();
-            threadDriver.remove();
+            threadDriver.set(null);
         }
     }
 
