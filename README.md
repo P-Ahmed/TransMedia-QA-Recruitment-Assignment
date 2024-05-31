@@ -4,11 +4,7 @@
 - **Documentation:** https://documenter.getpostman.com/view/14809453/2sA3Qv9X1G
 
 **API test running instruction in Postman**
-1. Please import the following URL in Postman
-
-``
-https://api.postman.com/collections/14809453-417d62c2-756f-43b6-aca8-7af39f14fe5c?access_key=PMAT-01HZ7ERFMDDHTENKM0X97SPN1E
-``
+1. Please import the following URL in Postman - [Postman Collection](https://api.postman.com/collections/14809453-417d62c2-756f-43b6-aca8-7af39f14fe5c?access_key=PMAT-01HZ7ERFMDDHTENKM0X97SPN1E)
 2. Run Collection to start the API testing.
 
 ## UI Automation
